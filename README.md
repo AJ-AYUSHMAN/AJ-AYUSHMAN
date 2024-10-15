@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **AJ-AYUSHMAN/AJ-AYUSHMAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there, I'm Ayushman Raj 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=AyushmanRaj&color=blue)
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on developing apps and building games with Unity.
@@ -36,9 +38,12 @@ Here are some ideas to get you started:
 - **Tools**: Git, GitHub, Docker, VS Code
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushmanRaj&show_icons=true&theme=radical)
+![Ayushman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushmanRaj&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushmanRaj&layout=compact&theme=radical)
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin/)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/your-twitter)
+
+### 📊 Profile Views
+![Profile Views](https://profile-counter.glitch.me/AyushmanRaj/count.svg)
