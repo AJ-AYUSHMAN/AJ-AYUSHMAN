@@ -73,6 +73,9 @@ Here are some of my notable projects:
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
+### GitHub Badges
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 
 ### 📈 GitHub Stats
 <div align="center">
