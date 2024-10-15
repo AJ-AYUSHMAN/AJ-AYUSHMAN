@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
 # Hi there, I'm Ayushman Raj 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AyushmanRaj&color=blue)
@@ -39,9 +42,12 @@ Here are some of my notable projects:
 
 | Project Name | Description | Technologies Used |
 |--------------|-------------|-------------------|
+| [Chat App](https://github.com/your-username/chat-app) | A real-time chat application with user authentication | Flutter, Firebase, Dart |
 | [Infinite Runner Game](https://github.com/your-username/infinite-runner-game) | A dynamic game with obstacle and coin spawning mechanics | Unity, C# |
 | [Credit Card Fraud Detection](https://github.com/your-username/credit-card-fraud-detection) | Detects fraudulent transactions using ML models | Python, Scikit-learn |
 | [Sentiment Analysis](https://github.com/your-username/sentiment-analysis) | Analyzes customer feedback to determine sentiment | Python, NLP |
+| [Sales Prediction Model](https://github.com/your-username/sales-prediction) | Predicts future sales trends using machine learning | Python, Pandas, Scikit-learn |
+| [Movie Review Sentiment Analysis](https://github.com/your-username/movie-review-analysis) | Analyzes movie reviews to extract user sentiment | Python, NLP, Pandas |
 
 ---
 
@@ -50,17 +56,25 @@ Here are some of my notable projects:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 
 #### Frameworks & Tools
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-0175C2?style=flat&logo=flutter&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AyushmanRaj&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="Ayushman's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushmanRaj&layout=compact&theme=radical" alt="Top Languages" />
