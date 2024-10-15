@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - **Tools**: Git, GitHub, Docker, VS Code
 
 ### 📈 GitHub Stats
-![Ayushman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushmanRaj&show_icons=true&theme=radical)
+![Ayushman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AyushmanRaj&show_icons=true&theme=radical&count_private=true&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushmanRaj&layout=compact&theme=radical)
 
 ### 🌐 Connect With Me
