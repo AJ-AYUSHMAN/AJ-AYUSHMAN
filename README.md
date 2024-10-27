@@ -79,7 +79,6 @@ Here are some of my notable projects:
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyushmanRaj&show_icons=true&theme=radical&count_private=true&cache_seconds=1800" alt="Ayushman's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushmanRaj&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
